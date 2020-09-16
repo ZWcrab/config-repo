@@ -1,6 +1,6 @@
 lagou:
   message: hello world
 driver-class-name: com.mysql.jdbc.Driver
-url: jdbc:mysql://localhost:3306/lagou?useUnicode=true&characterEncoding=utf8&useSSL=true
+url: jdbc:mysql://localhost:3306/lagou?useUnicode=true&characterEncoding=utf8&useSSL=false
 username: root
 password: root
